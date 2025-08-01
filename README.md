@@ -1,0 +1,2 @@
+# Diabetes-Prediction-using-tree-based-Machine-learning-Algorithm
+We have a Diabetes data which has 8 inputs and one output.This is a imbalanced data.We did train test split and apply SMOTE technique on the training data set and apply decision tree,RandomForest, XGBoost,lightgbm,Catboost,KNN,AdaBoost on smoted train data and check accuracy on original  data using confusion matrix and find the best model .
